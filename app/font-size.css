@@ -1,0 +1,46 @@
+/* 标题字体大小调整 */
+h1.text-3xl {
+  font-size: 1.75rem; /* 从2.25rem (3xl)减小到1.75rem */
+}
+
+.card-title {
+  font-size: 1.125rem !important; /* 从1.25rem减小到1.125rem */
+}
+
+/* 描述文本和正文字体大小调整 */
+.text-gray-500,
+.text-gray-400,
+.text-gray-600,
+.card-description {
+  font-size: 0.8125rem !important; /* 从0.875rem减小到0.8125rem */
+}
+
+/* 图表标签和图例 */
+.text-xs {
+  font-size: 0.7rem !important; /* 从0.75rem减小到0.7rem */
+}
+
+/* 表格内容 */
+table {
+  font-size: 0.875rem;
+}
+
+/* 标签页标签 */
+.tabs-trigger {
+  font-size: 0.875rem !important;
+}
+
+/* 按钮文本 */
+button {
+  font-size: 0.875rem;
+}
+
+/* 侧边栏导航项 */
+.sidebar-nav-item {
+  font-size: 0.875rem;
+}
+
+/* 图表提示文本 */
+.chart-hint {
+  font-size: 0.75rem !important;
+}
