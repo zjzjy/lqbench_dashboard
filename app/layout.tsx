@@ -10,6 +10,11 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "LQBench Dashboard",
   description: "A Benchmark for Evaluating LLMs' Emotional Intelligence in Intimate Relationships",
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
     generator: 'v0.dev'
 }
 
