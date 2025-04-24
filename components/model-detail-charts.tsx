@@ -255,7 +255,7 @@ export function FactorsFrequencyChart({ data }: { data: any }) {
                 strokeDasharray={`${data.positive}, 100`}
                 d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
               />
-              <text x="18" y="20.5" className={`text-3xl font-semibold ${positiveColor}`} textAnchor="middle">
+              <text x="18" y="20.5" className={`text-xs font-semibold ${positiveColor}`} textAnchor="middle">
                 {data.positive}%
               </text>
             </svg>
@@ -281,7 +281,7 @@ export function FactorsFrequencyChart({ data }: { data: any }) {
                 strokeDasharray={`${data.negative}, 100`}
                 d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
               />
-              <text x="18" y="20.5" className={`text-3xl font-semibold ${negativeColor}`} textAnchor="middle">
+              <text x="18" y="20.5" className={`text-xs font-semibold ${negativeColor}`} textAnchor="middle">
                 {data.negative}%
               </text>
             </svg>
