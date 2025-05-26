@@ -1,3 +1,4 @@
+This repository supports **Vercel** deployment.
 # LQBench Dashboard
 
 LQBench Dashboard is a modern, interactive data visualization platform designed to showcase and analyze the emotional intelligence performance of Large Language Models (LLMs) in intimate relationships. The data populated inside is not real.
