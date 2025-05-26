@@ -14,7 +14,8 @@ LQBench Dashboard is a modern, interactive data visualization platform designed 
 ![Complexity Analysis](assets/screenshots/complexity-analysis.png)
 *Task complexity analysis visualization*
 
-### Demo Video
+### Model specific page Demo Video
+It includes scoring of all aspects of the model, as well as support for selecting models for comparison and downloading model data.
 [![Dashboard Demo](assets/screenshots/demo-thumbnail.png)](assets/videos/dashboard-demo.mp4)
 *Click to watch the full demo video*
 
